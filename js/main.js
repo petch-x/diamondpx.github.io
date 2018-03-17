@@ -43,3 +43,28 @@ animMeter();
 
 
     
+
+    /* My Detail */
+    $(document).ready(function(){
+        var bdYear = 1993;
+        var d = new Date();
+        var month = d.getMonth();
+        var age = parseInt(d.getFullYear())-bdYear;
+        age = month < 11 ?age-1:age;
+        $('.myAge').text(age).css('font-weight','normal');
+    });
+
+
+    $(document).ready(function(){  
+        $('div[id^=portDetail]').hide();
+
+        $('#portfolio a').each(function(i){
+            var port = $(this).attr('data-port');
+            $(this).click(function(){
+                $('#portfolioModal').modal('show');
+                $('#portfolioModal').find('.modal-body').empty();
+                $('#portfolioModal').find('.modal-title').text($('#portDetail-'+port).attr('title'));
+                $('#portfolioModal').find('.modal-body').append($('#portDetail-'+port).html());
+            });
+        });
+     });
