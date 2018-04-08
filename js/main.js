@@ -7,15 +7,15 @@ $(document).ready( function() {
         	$logo.show();
         }
     }
-    
-	// Show logo 
+
+	// Show logo
 	$('#tab-container .tab a').click(function() {
 	  $logo.slideDown('slow');
 	});
 	// Hide logo
 	$('#tab-about').click(function() {
 	  $logo.slideUp('slow');
-	});	
+	});
 function animMeter(){
     $(".meter > span").each(function() {
                 $(this)
@@ -42,7 +42,7 @@ animMeter();
     });
 
 
-    
+
 
     /* My Detail */
     $(document).ready(function(){
@@ -55,7 +55,7 @@ animMeter();
     });
 
 
-    $(document).ready(function(){  
+    $(document).ready(function(){
         $('div[id^=portDetail]').hide();
 
         $('#portfolio a').each(function(i){
@@ -63,7 +63,7 @@ animMeter();
             $(this).click(function(){
                 $('#portfolioModal').modal('show');
                 $('#portfolioModal').find('.modal-body').empty();
-                $('#portfolioModal').find('.modal-title').text($('#portDetail-'+port).attr('title'));
+                $('#portfolioModal').find('.modal-title').html($('#portDetail-'+port).attr('title'));
                 $('#portfolioModal').find('.modal-body').append($('#portDetail-'+port).html());
             });
         });
