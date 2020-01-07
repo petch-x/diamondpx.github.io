@@ -32,7 +32,6 @@ $(function() {
       "images": [
         "images/portfolio/ocare/PHR/PHR_002.png",
         "images/portfolio/ocare/PHR/PHR_003.png",
-        "images/portfolio/ocare/PHR/PHR_003.png",
         "images/portfolio/ocare/PHR/PHR_005.png",
         "images/portfolio/ocare/PHR/PHR_007.png",
         "images/portfolio/ocare/PHR/PHR_008.png"
@@ -116,7 +115,6 @@ $(function() {
       "detail": "",
       "cover": "images/portfolio/3/2.png",
       "images": [
-        "images/portfolio/3/1.png",
         "images/portfolio/3/2.png",
         "images/portfolio/3/2.png"
       ]
