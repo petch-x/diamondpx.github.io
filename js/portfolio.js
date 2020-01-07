@@ -3,7 +3,7 @@ $(function() {
   const workData = `
   [
     {
-      "name": "Electronic Medical Record Project",
+      "name": "Electronic Medical Record",
       "detail": "",
       "cover": "images/portfolio/ocare/EHR/EHR_001.png",
       "images": [
