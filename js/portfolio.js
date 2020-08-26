@@ -5,34 +5,34 @@ $(function() {
     {
       "name": "OM Ordering",
       "detail": "",
-      "cover": "images/portfolio/ocare/EHR/EHR_001.png",
+      "cover": "images/portfolio/siamdapp/omordering/1.jpg",
       "images": [
-        "images/portfolio/ocare/EHR/EHR_002.png",
-        "images/portfolio/ocare/EHR/EHR_003.png",
-        "images/portfolio/ocare/EHR/EHR_004.png",
-        "images/portfolio/ocare/EHR/EHR_010.png"
+        "images/portfolio/siamdapp/omordering/2.jpg",
+        "images/portfolio/siamdapp/omordering/3.jpg",
+        "images/portfolio/siamdapp/omordering/4.jpg",
+        "images/portfolio/siamdapp/omordering/5.jpg",
+        "images/portfolio/siamdapp/omordering/6.jpg"
       ]
     },
     {
       "name": "We Love Chaing Mai",
       "detail": "",
-      "cover": "images/portfolio/ocare/EHR/EHR_001.png",
+      "cover": "images/portfolio/siamdapp/welovechiangmai/1.jpg",
       "images": [
-        "images/portfolio/ocare/EHR/EHR_002.png",
-        "images/portfolio/ocare/EHR/EHR_003.png",
-        "images/portfolio/ocare/EHR/EHR_004.png",
-        "images/portfolio/ocare/EHR/EHR_010.png"
+        "images/portfolio/siamdapp/welovechiangmai/2.jpg",
+        "images/portfolio/siamdapp/welovechiangmai/3.jpg",
+        "images/portfolio/siamdapp/welovechiangmai/4.jpg",
+        "images/portfolio/siamdapp/welovechiangmai/5.jpg"
       ]
     },
     {
       "name": "Payap Wallet",
       "detail": "",
-      "cover": "images/portfolio/ocare/EHR/EHR_001.png",
+      "cover": "images/portfolio/siamdapp/payap/1.jpg",
       "images": [
-        "images/portfolio/ocare/EHR/EHR_002.png",
-        "images/portfolio/ocare/EHR/EHR_003.png",
-        "images/portfolio/ocare/EHR/EHR_004.png",
-        "images/portfolio/ocare/EHR/EHR_010.png"
+        "images/portfolio/siamdapp/payap/2.jpg",
+        "images/portfolio/siamdapp/payap/3.jpg",
+        "images/portfolio/siamdapp/payap/4.jpg"
       ]
     },
     {
