@@ -3,6 +3,39 @@ $(function() {
   const workData = `
   [
     {
+      "name": "OM Ordering",
+      "detail": "",
+      "cover": "images/portfolio/ocare/EHR/EHR_001.png",
+      "images": [
+        "images/portfolio/ocare/EHR/EHR_002.png",
+        "images/portfolio/ocare/EHR/EHR_003.png",
+        "images/portfolio/ocare/EHR/EHR_004.png",
+        "images/portfolio/ocare/EHR/EHR_010.png"
+      ]
+    },
+    {
+      "name": "We Love Chaing Mai",
+      "detail": "",
+      "cover": "images/portfolio/ocare/EHR/EHR_001.png",
+      "images": [
+        "images/portfolio/ocare/EHR/EHR_002.png",
+        "images/portfolio/ocare/EHR/EHR_003.png",
+        "images/portfolio/ocare/EHR/EHR_004.png",
+        "images/portfolio/ocare/EHR/EHR_010.png"
+      ]
+    },
+    {
+      "name": "Payap Wallet",
+      "detail": "",
+      "cover": "images/portfolio/ocare/EHR/EHR_001.png",
+      "images": [
+        "images/portfolio/ocare/EHR/EHR_002.png",
+        "images/portfolio/ocare/EHR/EHR_003.png",
+        "images/portfolio/ocare/EHR/EHR_004.png",
+        "images/portfolio/ocare/EHR/EHR_010.png"
+      ]
+    },
+    {
       "name": "Electronic Medical Record",
       "detail": "",
       "cover": "images/portfolio/ocare/EHR/EHR_001.png",
